@@ -1,0 +1,26 @@
+{
+  "name": "test-npm",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anandsesha/test-npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anandsesha/test-npm/issues"
+  },
+  "homepage": "https://github.com/anandsesha/test-npm#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4"
+  }
+}
